@@ -4,29 +4,40 @@
 - [Monter un serveur OpenVPN](#monter-un-serveur-openvpn)
 - [Menu OpenVPN](#menu-openvpn)
 - [Ajout de client](#ajout-de-client)
+- [interface client](#interface-client)
 
 ## Monter un serveur OpenVPN
 
 Dans un premier temps, il faut vérifier qu'aucune mise à jour n'est nécessaire sur le serveur :
 
+```bash
 apt-get update
 apt-get upgrade
+```
 
 Ensuite, nous allons installer les modules nécessaires pour monter notre serveur :
 
+```bash
 apt-get install curl
+```
 
 Téléchargez le script d'installation avec curl :
 
+```bash
 curl -O https://raw.githubusercontent.com/Angristan/openvpn-install/master/openvpn-install.sh
+```
 
 Dès que le script est téléchargé, vous devez ajouter les droits d'exécution afin de pouvoir l'exécuter par la suite :
 
+```bash
 chmod +x openvpn-install.sh
+```
 
 Exécutez le script pour commencer la configuration pas à pas du serveur OpenVPN :
 
+```bash
 ./openvpn-install.sh
+```
 
 ## Menu OpenVPN
 
