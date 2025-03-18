@@ -45,3 +45,9 @@ Ensuite, il faut choisir si le client doit se connecter avec un mot de passe ou 
 ![Mot de passe client](image/passwordclientopenvpn.png)
 
 Et c'est bon, il ne reste plus qu'à envoyer la configuration OVPN au client pour qu'il ait accès au VPN. Dans notre cas, le fichier est nommé "demo1.ovpn".
+
+## interface client
+
+le client doit au prealable avokr telecharger openvpn sur sont pc ou mobile car il le gros avantage de openvpn et qu'il est aussi suporter par une version mobile.
+
+![](image/interfaceclientopenvpn.png)
