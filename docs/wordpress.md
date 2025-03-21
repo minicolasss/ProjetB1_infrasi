@@ -111,11 +111,11 @@ Pour configurer WordPress, ouvrez un navigateur et entrez l'adresse IP de votre 
 
 Vous devriez arriver sur cette page :
 
-![](image/acceiwordpress.png)
+![](../image/acceiwordpress.png)
 
 Suivez les étapes jusqu'à arriver à la page où vous devez entrer les informations de votre base de données créée précédemment :
 
-![](image/dbwordpress.png)
+![](../image/dbwordpress.png)
 
 Les informations affichées sur l'image proviennent d'un autre site, mais vous devez entrer celles que vous avez configurées.
 

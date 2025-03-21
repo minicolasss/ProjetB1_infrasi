@@ -93,7 +93,7 @@ Sur cette page, entrez les informations créées au préalable, et c'est bon, le
 
 ## Interface utilisateur
 
-![](image/interfaceclientnextcloud.png)
+![](../image/interfaceclientnextcloud.png)
 
 Sur mon image, on voit la version PC, mais Nextcloud a aussi une version mobile, ce que je trouve bien pratique.
 De plus, on peut aussi ajouter d'autres utilisateurs si on veut partager le cloud.
